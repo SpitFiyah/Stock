@@ -11,7 +11,7 @@
 
 ## Digital Footprint (midnighttdreamerr)
 - Instagram: https://www.instagram.com/midnighttdreamerr/ (Private/Scrape Protected)
-- Blogger: https://midnighttdreamerr.blogspot.com (Profile exists, but no public posts available)
+- Blogger: https://midnighttdreamerr.blogspot.com (Profile exists, but directs to a Google login page)
 - LibraryThing: https://www.librarything.com/profile/midnighttdreamerr (Exists, protected by Cloudflare)
 - Other platforms (identified via Maigret): YouTube, Kaggle, Letterboxd, ArtStation, Hashnode, Spotify, OP.GG (League of Legends).
 
@@ -33,4 +33,3 @@
 ## Notes
 - Instagram scraping attempts blocked by anti-bot mechanics despite session injection.
 - LibraryThing scraping blocked by Cloudflare.
-- Blogger profile contains no public blog posts in standard format.
